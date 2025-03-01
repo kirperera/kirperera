@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kirperera
+- 👋 Hi, I’m @ImanPerera
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning information systems
 - 💞️ I’m looking to collaborate on ...
